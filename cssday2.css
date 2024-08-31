@@ -1,0 +1,87 @@
+header
+{
+background-image: url(https://mybigplunge.com/wp-content/uploads/2024/08/36806-1000x600.jpg);
+height: 500px;
+width: 100%;
+top: 2rem;
+
+}
+h1{
+    font-size: 50px;
+    color: white;
+    padding-top: 40px;
+    text-align: center;
+    font-style: bold;
+    text-decoration: underline;
+}
+h2{
+    font-size: 25px;
+    color:white;
+   float:right;
+   text-shadow: 2px 2px  3px white;
+   padding-top: 0px;
+}
+h3
+{
+font-size: 25px;
+color:white;
+padding-top: 150px;
+padding-left: 350px;
+text-shadow: 2px 3px 3px white;
+}
+h4
+{
+    font-size: 25px;
+    color:white;
+    padding-top:100px;
+    text-shadow: 2px 2px 3px white;
+}
+.head
+{
+    background-color: blueviolet;
+    height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.main
+{
+background-color:lightblue;
+display: flex;
+justify-content: center;
+height: 1300px;
+width: 100%;
+
+}
+.head2
+{
+    width: 400px;
+    height: 300px;
+    border: 2px solid blueviolet;
+    text-align: center;
+    background-color: white;
+    margin-top: 80px;
+    object-fit: contain;
+}
+
+.head3
+{
+    width: 400px;
+    height: 330px;
+    border: 2px solid red;
+    text-align: center;
+    background-color: white;
+    margin-top: 80px;
+    object-fit: contain;
+}
+.head4
+{
+    width: 400px;
+    height: 450px;
+    border: 2px solid blueviolet;
+    text-align: center;
+    background-color: white;
+    margin-top: 80px;
+    object-fit: cover;
+}
